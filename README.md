@@ -84,7 +84,7 @@ The Objective of this Project is to provide a 360 degree of the whole company th
 - **Role of reports:** Often used as a basis for presenting to the board of directors, ensuring that they are kept informed of key developments.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 
 :white_check_mark:Loading and connecting data with Mysql
 
