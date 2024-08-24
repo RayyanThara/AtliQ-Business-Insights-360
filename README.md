@@ -4,7 +4,7 @@ AtliQ Hardware is a hardware manufacturing company that deals in Hardware sales 
 
 The Objective of this Project is to provide a 360 degree of the whole company though a comprehensive Power BI report which contains various essential dashboards such as Finance, Sales, Marketing, Supply Chain as well as cateing the needs of the Executives by providing for them a special dashboard.
 
-# Live Project Dashboard  - [https://app.powerbi.com/view?r=eyJrIjoiODkyZjVjYzctNDE5Mi00NGIzLWJmYjktYzljNzI3MjBmMzFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+# Live Project Dashboard  - (https://app.powerbi.com/view?r=eyJrIjoiODkyZjVjYzctNDE5Mi00NGIzLWJmYjktYzljNzI3MjBmMzFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
 ## 💵: Finance Report :
