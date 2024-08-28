@@ -118,3 +118,6 @@ The Objective of this Project is to provide a 360 degree of the whole company th
 :pencil:	Optimization of report generation through meticulous fine-tuning.
 
 :bar_chart:	Developing a systematic approach to devising a report building plan.
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanthara/)
