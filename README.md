@@ -120,4 +120,5 @@ The Objective of this Project is to provide a 360 degree of the whole company th
 :bar_chart:	Developing a systematic approach to devising a report building plan.
 
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Rayyan-Thara)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayyanthara/)
